@@ -1,5 +1,8 @@
 import React, { useState } from "react";
-import style from "../styles/login.module.css";
+import "./login.css"
+
+
+
 // import { useNavigate } from "react-router-dom";
 // import { useDispatch } from "react-redux";
 // import { signin_post } from "../redux/auth/actions";
